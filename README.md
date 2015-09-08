@@ -1,5 +1,7 @@
 # Utilidades - Mathdecisión
 
+En este repositorio estarán todas las utilidades de mathdecision
+
 ##Libreria JS Matplotlib
 
 JSGL es una biblioteca para la visualización interactiva de grandes conjuntos de datos, utilizando javascritp y las últimas tecnologías web. Su objetivo es proporcionar una manera elegante para la construcción concisa de nuevos gráficos al estilo  D3 js (Data-Driven Documents).
