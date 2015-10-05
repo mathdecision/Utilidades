@@ -15,5 +15,5 @@ Por: *Sebastian Alvarez*
 * [Grupo ANFI](http://www.grupoanfi.com) 
 * [Math Decision](http://www.mathdecision.com) 
 
-![Logo](http://www.grupoanfi.com/images/zt_genius/images/Logo%20Anfi.jpg)
+![Logo](http://www.grupoanfi.com/images/banners/LogoAnfi.jpg)
 ![Logo](http://www.mathdecision.com/images/logomath.png)
